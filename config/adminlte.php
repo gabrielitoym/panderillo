@@ -14,9 +14,9 @@ return [
     |
     */
 
-    'title' => '',
+    'title' => 'Panderillo',
     'title_prefix' => '',
-    'title_postfix' => '| Coders Free',
+    'title_postfix' => '| Panderillo',
 
     /*
     |--------------------------------------------------------------------------
@@ -45,7 +45,7 @@ return [
     |
     */
 
-    'logo' => '<b>Coders</b>FREE',
+    'logo' => '<b>PANDERILLO</b>',
     'logo_img' => 'vendor/adminlte/dist/img/AdminLTELogo.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
@@ -66,7 +66,7 @@ return [
 
     'usermenu_enabled' => true,
     'usermenu_header' => true,
-    'usermenu_header_class' => 'bg-primary',
+    'usermenu_header_class' => 'bg-info',
     'usermenu_image' => true,
     'usermenu_desc' => true,
     'usermenu_profile_url' => true,
